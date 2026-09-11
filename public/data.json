@@ -1,0 +1,74 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "shakib-al-hasan.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-handed",
+    "price": 12.5
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerImg": "virat-kohli.jpg",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed",
+    "price": 15.0
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImg": "babar-azam.jpg",
+    "origin": "Pakistan",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 14.0
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "rashid-khan.jpg",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-handed",
+    "price": 13.5
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImg": "jasprit-bumrah.jpg",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 14.5
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerImg": "jos-buttler.jpg",
+    "origin": "England",
+    "playerType": "Wicket-Keeper Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed",
+    "price": 13.0
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerImg": "kane-williamson.jpg",
+    "origin": "New Zealand",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 11.5
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImg": "pat-cummins.jpg",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 13.5
+  }
+]
