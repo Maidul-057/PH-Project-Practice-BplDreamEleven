@@ -1,12 +1,16 @@
 import React from 'react';
+import { use } from 'react';
 
 
-const players = ({ playersPromise }) => {
-    return (
+const Players = ({ playersPromise }) => {
+     console.log(playersPromise);
+     const players = use(playersPromise);
+     console.log(players, "Players");
+    return 
         <div>
-            console.log(playersPromise);
+           
         </div>
-    );
+    ;
 };
 
-export default players;
+export default Players;
