@@ -2,9 +2,9 @@ import React from 'react';
 import type { Iplayer } from '../../types/plaerType';
 
 const AvailablePlayers = ({players}) => {
-    console.log(players, "from avlble players")
+    console.log(players, "from avlble players");
     return (
-        <div>
+        <div className="grid grid-cols-3 gap-4">
             {
                 players.map((players:Iplayer)=>{ 
                     return ( 

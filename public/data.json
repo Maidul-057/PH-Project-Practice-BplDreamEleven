@@ -1,7 +1,7 @@
 [
   {
     "playerName": "Shakib Al Hasan",
-    "playerImg": "shakib-al-hasan.jpg",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY0TG6naGyHQ0njVTFqPtG18UG-NmrPajwEf5eLgQH0TxV8c4OOkxhMKh5NVEccBJuq1jyErTlymDhLp_dCDeeNe4rwLf65_f-XGE0No&s=10",
     "origin": "Bangladesh",
     "playerType": "All-Rounder",
     "bowlingStyle": "Left-arm orthodox",
@@ -10,7 +10,7 @@
   },
   {
     "playerName": "Virat Kohli",
-    "playerImg": "virat-kohli.jpg",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY0TG6naGyHQ0njVTFqPtG18UG-NmrPajwEf5eLgQH0TxV8c4OOkxhMKh5NVEccBJuq1jyErTlymDhLp_dCDeeNe4rwLf65_f-XGE0No&s=10",
     "origin": "India",
     "playerType": "Batter",
     "bowlingStyle": "Right-arm medium",
@@ -19,7 +19,7 @@
   },
   {
     "playerName": "Babar Azam",
-    "playerImg": "babar-azam.jpg",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY0TG6naGyHQ0njVTFqPtG18UG-NmrPajwEf5eLgQH0TxV8c4OOkxhMKh5NVEccBJuq1jyErTlymDhLp_dCDeeNe4rwLf65_f-XGE0No&s=10",
     "origin": "Pakistan",
     "playerType": "Batter",
     "bowlingStyle": "Right-arm off break",
@@ -28,7 +28,7 @@
   },
   {
     "playerName": "Rashid Khan",
-    "playerImg": "rashid-khan.jpg",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY0TG6naGyHQ0njVTFqPtG18UG-NmrPajwEf5eLgQH0TxV8c4OOkxhMKh5NVEccBJuq1jyErTlymDhLp_dCDeeNe4rwLf65_f-XGE0No&s=10",
     "origin": "Afghanistan",
     "playerType": "Bowler",
     "bowlingStyle": "Right-arm leg break",
@@ -37,7 +37,7 @@
   },
   {
     "playerName": "Jasprit Bumrah",
-    "playerImg": "jasprit-bumrah.jpg",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY0TG6naGyHQ0njVTFqPtG18UG-NmrPajwEf5eLgQH0TxV8c4OOkxhMKh5NVEccBJuq1jyErTlymDhLp_dCDeeNe4rwLf65_f-XGE0No&s=10",
     "origin": "India",
     "playerType": "Bowler",
     "bowlingStyle": "Right-arm fast",
@@ -46,7 +46,7 @@
   },
   {
     "playerName": "Jos Buttler",
-    "playerImg": "jos-buttler.jpg",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY0TG6naGyHQ0njVTFqPtG18UG-NmrPajwEf5eLgQH0TxV8c4OOkxhMKh5NVEccBJuq1jyErTlymDhLp_dCDeeNe4rwLf65_f-XGE0No&s=10",
     "origin": "England",
     "playerType": "Wicket-Keeper Batter",
     "bowlingStyle": "Right-arm medium",
@@ -55,7 +55,7 @@
   },
   {
     "playerName": "Kane Williamson",
-    "playerImg": "kane-williamson.jpg",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY0TG6naGyHQ0njVTFqPtG18UG-NmrPajwEf5eLgQH0TxV8c4OOkxhMKh5NVEccBJuq1jyErTlymDhLp_dCDeeNe4rwLf65_f-XGE0No&s=10",
     "origin": "New Zealand",
     "playerType": "Batter",
     "bowlingStyle": "Right-arm off break",
@@ -64,7 +64,7 @@
   },
   {
     "playerName": "Pat Cummins",
-    "playerImg": "pat-cummins.jpg",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY0TG6naGyHQ0njVTFqPtG18UG-NmrPajwEf5eLgQH0TxV8c4OOkxhMKh5NVEccBJuq1jyErTlymDhLp_dCDeeNe4rwLf65_f-XGE0No&s=10",
     "origin": "Australia",
     "playerType": "Bowler",
     "bowlingStyle": "Right-arm fast",
